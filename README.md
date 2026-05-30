@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepshika Palepu</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | MLOps Learner | Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepshikapalepu20&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/deepshikapalepu20?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
