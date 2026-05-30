@@ -134,7 +134,7 @@ Python • C++ • C • Java • JavaScript • HTML • CSS • React • Node
 # 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepshikapalepu20/deepshikapalepu20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/deepshikapalepu20/deepshikapalepu20/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
