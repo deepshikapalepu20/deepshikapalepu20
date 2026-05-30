@@ -123,17 +123,17 @@ Python • C++ • C • Java • JavaScript • HTML • CSS • React • Node
 - Built multiple Machine Learning, NLP, and MLOps projects
 
 ---
-
-# 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepshikapalepu20&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=deepshikapalepu20&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepshikapalepu20&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=deepshikapalepu20&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikapalepu20&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikapalepu20&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
 
 # 🐍 Contributions
